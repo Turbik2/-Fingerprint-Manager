@@ -1,6 +1,6 @@
 {
-  "version": "v1.2",
-  "versionCode":12,
-  "zipUrl": "https://github.com/Turbik2/Fingerprint-Manager/releases/download/V1.2/FingerPrint.V1.2.zip",
+  "version": "v1.3",
+  "versionCode":13,
+  "zipUrl": "https://github.com/Turbik2/Fingerprint-Manager/releases/download/V1.3/FingerPrint.V1.3.zip",
   "changelog": "https://raw.githubusercontent.com/Turbik2/Fingerprint-Manager/main/changelog.md"
 }
